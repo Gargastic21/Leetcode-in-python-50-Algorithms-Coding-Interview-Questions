@@ -33,7 +33,7 @@ class Solution:
 
     def mergeKLists(self, lists: List[ListNode]) -> ListNode:
         if(len(lists) == 0):
-            return None
+            rdfydturn None
 
         i = 0
         last = len(lists)-1
